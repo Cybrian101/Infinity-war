@@ -2,7 +2,7 @@
 import formidable from 'formidable';
 import fs from 'fs';
 import path from 'path';
-import { Database } from '../../lib/database'; // If not used, consider removing
+// import { Database } from '../../lib/database'; // If not used, consider removing
 
 export const config = {
   api: {

@@ -1,4 +1,4 @@
-import { Database } from '../../lib/database';
+// import { Database } from '../../lib/database';
 import path from 'path';
 
 export default async function handler(req, res) {
